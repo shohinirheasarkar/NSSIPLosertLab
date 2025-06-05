@@ -1,0 +1,3 @@
+[submodule "caiman_peak_research"]
+	path = caiman_peak_research
+	url = https://github.com/shohinirheasarkar/CaImAn.git
